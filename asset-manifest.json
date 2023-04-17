@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/travelog/static/css/main.cc6ad0e5.css",
+    "main.js": "/travelog/static/js/main.9781f996.js",
+    "static/media/title.png": "/travelog/static/media/title.72ec62d2888580050dc0.png",
+    "static/media/2_2.jpeg": "/travelog/static/media/2_2.649dd1fbad3df3db57bd.jpeg",
+    "static/media/Japan.jpg": "/travelog/static/media/Japan.c4254c7c0da946d77759.jpg",
+    "static/media/Gangneung.jpg": "/travelog/static/media/Gangneung.36cccaaf4b4afb0ea3c2.jpg",
+    "static/media/Egypt.jpg": "/travelog/static/media/Egypt.ae524efb7cc73286fcbd.jpg",
+    "static/media/Songdo.jpg": "/travelog/static/media/Songdo.4f862bc383fc4306597e.jpg",
+    "static/media/Suncheon.jpg": "/travelog/static/media/Suncheon.0bec6264ccdf12bba0db.jpg",
+    "static/media/Thailand.jpg": "/travelog/static/media/Thailand.50b85397895199b27362.jpg",
+    "static/media/Bolivia.jpg": "/travelog/static/media/Bolivia.1121aa5aa940a0032c95.jpg",
+    "static/media/Ulleungdo.jpg": "/travelog/static/media/Ulleungdo.26f754264ce638235fce.jpg",
+    "static/media/1_2.jpeg": "/travelog/static/media/1_2.30ba7669afd740091f4f.jpeg",
+    "static/media/bolivia3.jpg": "/travelog/static/media/bolivia3.50520355ad91968b1bf1.jpg",
+    "static/media/1_1.jpeg": "/travelog/static/media/1_1.e2a22e08d0cdd7794276.jpeg",
+    "static/media/1_3.jpeg": "/travelog/static/media/1_3.77d89de4213b1570212d.jpeg",
+    "static/media/2_4.jpeg": "/travelog/static/media/2_4.ec743d2002181a77b112.jpeg",
+    "static/media/2_3.jpg": "/travelog/static/media/2_3.6e9c358d232acfa44b40.jpg",
+    "static/media/1_4.jpeg": "/travelog/static/media/1_4.f65c59922a27712fdaec.jpeg",
+    "static/media/presentation.png": "/travelog/static/media/presentation.3d439c14f8f4c69982e2.png",
+    "static/media/report.png": "/travelog/static/media/report.f9254a461df6967d4b1b.png",
+    "static/media/programmer.png": "/travelog/static/media/programmer.e17a77368d42027b254f.png",
+    "index.html": "/travelog/index.html",
+    "main.cc6ad0e5.css.map": "/travelog/static/css/main.cc6ad0e5.css.map",
+    "main.9781f996.js.map": "/travelog/static/js/main.9781f996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6ad0e5.css",
+    "static/js/main.9781f996.js"
+  ]
+}

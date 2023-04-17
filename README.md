@@ -5,3 +5,5 @@
 ### [Travelog](https://hayamaster.github.io/Travelog)
 
 
+### 🚆 Domestic 🚆
+<img src="./src/images/domestic.png">

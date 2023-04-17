@@ -51,12 +51,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hayamaster/Travelog.git"
+    "url": "git+https://github.com/hayamaster/web_travelog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hayamaster/Travelog/issues"
+    "url": "https://github.com/hayamaster/web_travelog/issues"
   }
 }

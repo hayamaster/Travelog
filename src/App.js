@@ -19,31 +19,30 @@ import Menu from "./components/Menu";
 import International from "./routes/International";
 import Bener from "./title.png";
 
-
 function App() {
   return (
-  <Router>
-    <header className={style.header}>
-        <img src={Bener} className={style.header}/>
-    </header>
-    <Menu/>
-    <div className={style.style}>
-      <Routes>
-        <Route path="" element={<Main/>} />
-        <Route path="/spot/100" element={<Spec_Gangneung/>}/>
-        <Route path="/spot/101" element={<Spec_Songdo/>}/>
-        <Route path="/spot/102" element={<Spec_Suncheon/>}/>
-        <Route path="/spot/103" element={<Spec_Ulleungdo/>}/>
-        <Route path="/spot/1000" element={<Spec_Bolivia/>}/>
-        <Route path="/spot/1001" element={<Spec_Egypt/>}/>
-        <Route path="/spot/1002" element={<Spec_Japan/>}/>
-        <Route path="/spot/1003" element={<Spec_Thailand/>}/>
-        <Route path="/domestic"  element={<Home/>}/>
-        <Route path="/international" element={<International/>}/>
-      </Routes>
-    </div>
-  </Router>
-   );
-} 
+    <Router basename={process.env.PUBLIC_URL}>
+      <header className={style.header}>
+        <img src={Bener} className={style.header} />
+      </header>
+      <Menu />
+      <div className={style.style}>
+        <Routes>
+          <Route path="" element={<Main />} />
+          <Route path="/spot/100" element={<Spec_Gangneung />} />
+          <Route path="/spot/101" element={<Spec_Songdo />} />
+          <Route path="/spot/102" element={<Spec_Suncheon />} />
+          <Route path="/spot/103" element={<Spec_Ulleungdo />} />
+          <Route path="/spot/1000" element={<Spec_Bolivia />} />
+          <Route path="/spot/1001" element={<Spec_Egypt />} />
+          <Route path="/spot/1002" element={<Spec_Japan />} />
+          <Route path="/spot/1003" element={<Spec_Thailand />} />
+          <Route path="/domestic" element={<Home />} />
+          <Route path="/international" element={<International />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
 
 export default App;

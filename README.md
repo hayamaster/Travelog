@@ -3,7 +3,7 @@
 
 <br/>
 
-### Hompage: [Travelog](https://hayamaster.github.io/Travelog)
+### 📚 Hompage: [Travelog](https://hayamaster.github.io/Travelog)
 
 <br/>
 

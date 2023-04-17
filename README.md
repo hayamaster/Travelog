@@ -14,3 +14,7 @@
 
 ### ✈️ International ✈️
 <img src="./src/images/international.png">
+
+<br/>
+
+## Development Period : 2022.MAY ~ 2022.JUNE

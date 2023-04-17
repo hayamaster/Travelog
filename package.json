@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hayamaster.github.io/web_travelog/",
+  "homepage": "https://hayamaster.github.io/travelog/",
   "devDependencies": {
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.1"

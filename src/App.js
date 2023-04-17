@@ -21,7 +21,7 @@ import Bener from "./title.png";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <header className={style.header}>
         <img src={Bener} className={style.header} />
       </header>
